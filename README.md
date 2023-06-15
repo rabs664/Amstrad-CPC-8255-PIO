@@ -23,11 +23,16 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
 ## Resources
-CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho).
+CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
+
 Eagle 9.6.2
+
 [Seeed Studio](https://www.seeedstudio.com/)
+
 Visual Studio Code
+
 [Amstrad Basic Helper](https://marketplace.visualstudio.com/items?itemName=cebe74.amstrad-basic-helper-vscode)
+
 [Retro Assembler](https://marketplace.visualstudio.com/items?itemName=EngineDesigns.retroassembler)
 
 
