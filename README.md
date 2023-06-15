@@ -27,6 +27,7 @@ The project uses the CPC Amstrad Expansion Backplane by [@revaldinho](https://gi
 
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
+Don Prefontaine and Peter Murray, and their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html) from which the basis of this board has been taken.
 
 # Release History
 ## Version 1.0
