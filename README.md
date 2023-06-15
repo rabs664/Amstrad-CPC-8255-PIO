@@ -9,7 +9,7 @@ Support Z80 assembly learning, specifically associated with the 8255 and the Ams
 ## Background
 Part of a number of modular cards using Z80 associated peripherals and the Amstrad CPC.
 
-## IO Address
+## IO Addressing
 The IO Address can be selected using two sets of jumpers (CS_HB and CS_LB), supporting the following base address.
 
 * F8E0 and F8F0
