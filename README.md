@@ -6,7 +6,7 @@ Simple 8255 PIO board compatible with the Amstrad CPC and MX4 connector.
 ## Objective
 Support Z80 assembly learning, specifically associated with the 8255 and the Amstrad CPC.
 
-The board is purely built as a bit of fun and a learning tool.
+The board is purely built to be a bit of fun and a learning tool.
 
 ## Background
 Part of a number of modular cards using Z80 associated peripherals and the Amstrad CPC.
@@ -46,6 +46,8 @@ CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
 [HxCFloppyEmulator](https://hxc2001.com/download/floppy_drive_emulator/#cpldusbhxc)
 
 [CPCWiki](https://www.cpcwiki.eu/index.php/Main_Page)
+
+Z80 Application by Jams W Coffron
 
 Amstrad CPC 6128 + Gotek
 
