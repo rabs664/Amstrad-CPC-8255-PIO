@@ -23,12 +23,18 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
 ## Resources
-The project uses the CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho).
+CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho).
+Eagle 9.6.2
+[Seeed Studio](https://www.seeedstudio.com/)
+Visual Studio Code
+[Amstrad Basic Helper](https://marketplace.visualstudio.com/items?itemName=cebe74.amstrad-basic-helper-vscode)
+[Retro Assembler](https://marketplace.visualstudio.com/items?itemName=EngineDesigns.retroassembler)
+
 
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
 
-Don Prefontaine and Peter Murray, and their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html) from which the basis of this board has been taken.
+Don Prefontaine and Peter Murray, and their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html) from which forms basis of this board was taken.
 
 # Release History
 ## Version 1.0
