@@ -25,7 +25,7 @@ The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 ## Resources
 CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
 
-([Eagle](https://www.autodesk.co.uk/products/eagle/free-download?us_oa=dotcom-us&us_si=08ad885f-2df4-4530-9297-3164adadddd1&us_st=eagle)
+[Eagle](https://www.autodesk.co.uk/products/eagle/free-download?us_oa=dotcom-us&us_si=08ad885f-2df4-4530-9297-3164adadddd1&us_st=eagle)
 
 [Seeed Studio](https://www.seeedstudio.com/)
 
