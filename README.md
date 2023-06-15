@@ -29,11 +29,13 @@ Eagle 9.6.2
 
 [Seeed Studio](https://www.seeedstudio.com/)
 
-Visual Studio Code
+[Visual Studio Code Community Edition](https://visualstudio.microsoft.com/vs/community/)
 
 [Amstrad Basic Helper](https://marketplace.visualstudio.com/items?itemName=cebe74.amstrad-basic-helper-vscode)
 
 [Retro Assembler](https://marketplace.visualstudio.com/items?itemName=EngineDesigns.retroassembler)
+
+[WinApe](http://www.winape.net/)
 
 
 ## Acknowledgements
