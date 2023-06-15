@@ -50,7 +50,7 @@ Amstrad CPC 6128 + Gotek
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
 
-Don Prefontaine and Peter Murray, and their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html) from which forms basis of this board was taken.
+Don Prefontaine and Peter Murray, ideas from their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
 
 # Release History
 ## Version 1.0
