@@ -41,6 +41,11 @@ CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
 
 [CPCDiskXP](http://www.cpcmania.com)
 
+[HxCFloppyEmulator](https://hxc2001.com/download/floppy_drive_emulator/#cpldusbhxc)
+
+[CPCWiki](https://www.cpcwiki.eu/index.php/Main_Page)
+
+Amstrad CPC 6128 + Gotek
 
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
