@@ -25,6 +25,9 @@ The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 ## Resources
 The project uses the CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho).
 
+## Acknowledgements
+[@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
+
 # Release History
 ## Version 1.0
 * First Release
