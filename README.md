@@ -39,7 +39,7 @@ CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
 
 [ManageDsk](http://ldeplanque.free.fr/ManageDsk/ManageDsk_v0.20h.zip)
 
-[CPCDiskXP](http://www.cpcmania.com/cpcdiskxp/)
+[CPCDiskXP](http://www.cpcmania.com)
 
 
 ## Acknowledgements
