@@ -37,6 +37,10 @@ CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
 
 [WinApe](http://www.winape.net/)
 
+[ManageDsk](http://ldeplanque.free.fr/ManageDsk/ManageDsk_v0.20h.zip)
+
+[CPCDiskXP](http://www.cpcmania.com/cpcdiskxp/)
+
 
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
