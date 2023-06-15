@@ -6,6 +6,8 @@ Simple 8255 PIO board compatible with the Amstrad CPC and MX4 connector.
 ## Objective
 Support Z80 assembly learning, specifically associated with the 8255 and the Amstrad CPC.
 
+The board is purely built as a bit of fun and a learning tool.
+
 ## Background
 Part of a number of modular cards using Z80 associated peripherals and the Amstrad CPC.
 
