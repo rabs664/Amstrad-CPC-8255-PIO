@@ -25,6 +25,9 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 ## Testing
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
+## PCBs
+PCBs are available from Seeed Studio [My Gallery](https://www.seeedstudio.com/Amstrad-CPC-Expansion-Breakout-PCB-g-1386458)
+
 ## Resources
 [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
 
