@@ -1,7 +1,7 @@
 # Amstrad CPC 8255 PIO
 Simple 8255 PIO board compatible with the Amstrad CPC and MX4 connector.
 
-![readme_pic1](https://github.com/rabs664/amstrad-cpc-8255-pio/assets/105534000/57d22775-646d-4e72-8b4f-35513a6dd6ac)
+![readme_pic1](https://github.com/rabs664/Amstrad-CPC-8255-PIO/blob/main/Images/assembled-board.jpg)
 
 ## Objective
 Learn about the 8255 PIO, and how to write Z80 assembly using on Amstrad CPC.
