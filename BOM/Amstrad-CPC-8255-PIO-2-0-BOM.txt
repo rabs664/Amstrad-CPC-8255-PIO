@@ -1,5 +1,3 @@
-Partlist exported from C:/Users/Robert/Documents/EAGLE/projects/Amstrad-CPC-8255-PIO/Amstrad-CPC-8255-PIO-2-0.sch at 6/16/2023 12:50 PM
-
 Part Value          Device          Package        Description                            MF          MPN            OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
 BUS  2550-          2550-           PAK100/2500-50 3M (TM) Pak 100 4-Wall Header                                     unknown    unknown   0          X          
 C1   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
