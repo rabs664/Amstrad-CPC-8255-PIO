@@ -10,7 +10,7 @@ Learn about the 8255 PIO, and how to write Z80 assembly using on Amstrad CPC.
 Part of a number of modular cards using Z80 associated peripherals and the Amstrad CPC.
 
 ## Backplane
-CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho/cpc_ram_expansion/wiki/CPC-Expansion-Backplane)
+[CPC Amstrad Expansion Backplane by revaldinho](https://github.com/revaldinho/cpc_ram_expansion/wiki/CPC-Expansion-Backplane)
 
 ## IO Addressing
 The IO Address can be selected using two sets of jumpers (CS_HB and CS_LB), supporting the following base address.
