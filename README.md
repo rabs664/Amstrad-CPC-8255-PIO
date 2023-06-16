@@ -11,6 +11,9 @@ The board is purely built to be a bit of fun and a learning tool.
 ## Background
 Part of a number of modular cards using Z80 associated peripherals and the Amstrad CPC.
 
+## Backplane
+CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
+
 ## IO Addressing
 The IO Address can be selected using two sets of jumpers (CS_HB and CS_LB), supporting the following base address.
 
@@ -25,38 +28,20 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
 ## Resources
-CPC Amstrad Expansion Backplane by [@revaldinho](https://github.com/revaldinho)
-
-[Eagle](https://www.autodesk.co.uk/products/eagle/free-download?us_oa=dotcom-us&us_si=08ad885f-2df4-4530-9297-3164adadddd1&us_st=eagle)
-
-[Seeed Studio](https://www.seeedstudio.com/)
-
-[Visual Studio Code Community Edition](https://visualstudio.microsoft.com/vs/community/)
-
-[Amstrad Basic Helper](https://marketplace.visualstudio.com/items?itemName=cebe74.amstrad-basic-helper-vscode)
-
-[Retro Assembler](https://marketplace.visualstudio.com/items?itemName=EngineDesigns.retroassembler)
-
-[WinApe](http://www.winape.net/)
-
-[ManageDsk](http://ldeplanque.free.fr/ManageDsk/ManageDsk_v0.20h.zip)
-
-[CPCDiskXP](http://www.cpcmania.com)
-
-[HxCFloppyEmulator](https://hxc2001.com/download/floppy_drive_emulator/#cpldusbhxc)
+[Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
 
 [CPCWiki](https://www.cpcwiki.eu/index.php/Main_Page)
 
-Z80 Application by Jams W Coffron
-
-Amstrad CPC 6128 + Gotek
+Z80 Application by Jams W Coffron ISBN 0-89588-094-6
 
 ## Acknowledgements
-[@revaldinho](https://github.com/revaldinho) kick started my project, inspiration, ideas and support. Many thanks
+[@revaldinho](https://github.com/revaldinho)
 
-Don Prefontaine and Peter Murray, ideas from their excellent [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
+Don Prefontaine 
+
+Peter Murray
 
 # Release History
-## Version 1.0
+## Version 2.0
 * First Release
 
