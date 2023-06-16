@@ -1,0 +1,18 @@
+Partlist exported from C:/Users/Robert/Documents/EAGLE/projects/Amstrad-CPC-8255-PIO/Amstrad-CPC-8255-PIO-2-0.sch at 6/16/2023 12:50 PM
+
+Part Value          Device          Package        Description                            MF          MPN            OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+BUS  2550-          2550-           PAK100/2500-50 3M (TM) Pak 100 4-Wall Header                                     unknown    unknown   0          X          
+C1   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
+C2   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
+C3   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
+C4   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
+C5   0.1uF          C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                                             29         C          
+CSHB TSW-104-07-G-D TSW-104-07-G-D  TSW-104-XX-G-D THROUGH-HOLE .025" SQ POST HEADER      Samtec Inc. TSW-104-07-G-D                                            
+CSLB TSW-102-07-G-D TSW-102-07-G-D  TSW-102-XX-G-D THROUGH-HOLE .025" SQ POST HEADER      Samtec Inc. TSW-102-07-G-D                                            
+IC1                 82C55A          DIL40          MICROCOMPUTER/PERIPHERAL DEVICE        INTERSIL    IP82C55AZ      1562050    79K6939   0                     
+IC2  7400N          7400N           DIL14          Quad 2-input NAND gate                                                                 0                     
+IC3  74HCT138N      74HCT138N       DIL16          3-line to 8-line DECODER/DEMULTIPLEXER                                                 0                     
+IC4  74HCT138N      74HCT138N       DIL16          3-line to 8-line DECODER/DEMULTIPLEXER                                                 0                     
+IC5  7432N          7432N           DIL14          Quad 2-input OR gate                                                                   0                     
+P    TSW-124-07-G-S TSW-124-07-G-S  TSW-124-XX-G-S THROUGH-HOLE .025" SQ POST HEADER      Samtec Inc. TSW-124-07-G-S                                            
+T    TSW-120-07-G-D TSW-120-07-G-D  TSW-120-XX-G-D THROUGH-HOLE .025" SQ POST HEADER      Samtec Inc. TSW-120-07-G-D                                            
