@@ -28,6 +28,12 @@ The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 ## PCBs
 PCBs are available from Seeed Studio WAITING FOR APPROVAL.
 
+## Components
+This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/ZWWIHRPLO7 ) contains all components excluding the 8255 which was purchased from EBay.
+
+Note the right angled header for the port connections was not available at the time of producing this list but all other components were in stock for shipping immediately.
+
+
 ## Resources
 [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
 
