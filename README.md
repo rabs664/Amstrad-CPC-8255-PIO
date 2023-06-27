@@ -26,13 +26,15 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
 ## PCBs
-PCBs are available from Seeed Studio WAITING FOR APPROVAL.
+PCBs are available from [Seeed Studio](https://www.seeedstudio.com/Amstrad-CPC-8255-PIO-g-1393845)
 
 ## Components
 This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/ZWWIHRPLO7 ) contains all components excluding the 8255 which was purchased from EBay.
 
 Note the right angled header for the port connections was not available at the time of producing this list but all other components were in stock for shipping immediately.
 
+## Assembler
+[RASM](https://github.com/EdouardBERGE/rasm)
 
 ## Resources
 [Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
@@ -47,6 +49,8 @@ Z80 Application by Jams W Coffron ISBN 0-89588-094-6
 Don Prefontaine 
 
 Peter Murray
+
+[@EdouardBERGE](https://github.com/EdouardBERGE)
 
 # Release History
 ## Version 2.0
