@@ -41,7 +41,7 @@ Note the right angled header for the port connections was not available at the t
 
 [CPCWiki](https://www.cpcwiki.eu/index.php/Main_Page)
 
-Z80 Application by Jams W Coffron ISBN 0-89588-094-6
+Z80 Application by James W Coffron ISBN 0-89588-094-6
 
 ## Acknowledgements
 [@revaldinho](https://github.com/revaldinho)
