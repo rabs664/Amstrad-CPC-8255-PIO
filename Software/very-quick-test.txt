@@ -1,0 +1,23 @@
+Very quick test.
+
+For base address &F8E0.
+
+At the BASIC prompt enter.
+
+OUT &F8E3,&80
+
+Then measure the voltage on PA0 which should be 0V.
+
+
+At the BASIC prompt enter.
+
+OUT &F8E0,&01
+
+Then measure the voltage on PA0 which should be 5V.
+
+
+At the BASIC prompt enter.
+
+OUT &F8E0,&00
+
+Then measure the voltage on PA0 which should be 0V.
