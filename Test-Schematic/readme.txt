@@ -1,1 +1,1 @@
-This folder contains a schematic for a simple test harness.
+This folder contains an Eagle schematic for a simple test harness.
