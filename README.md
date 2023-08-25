@@ -26,7 +26,7 @@ See [CPC Wiki IO Port Summary](https://www.cpcwiki.eu/index.php/I/O_Port_Summary
 The 8255 PIO board has been built and has been tested on an Amstrad CPC 6128.
 
 ## PCBs
-PCBs are available from [Seeed Studio](https://www.seeedstudio.com/Amstrad-CPC-8255-PIO-g-1393845) (V2.0)
+PCBs are available from [Seeed Studio V2.0](https://www.seeedstudio.com/Amstrad-CPC-8255-PIO-g-1393845) or [Seeed Studio V3.1](https://www.seeedstudio.com/Simple-8255-PIO-board-compatible-with-the-Amstrad-CPC-and-MX4-connector-V3--g-1396645)
 
 ## Components
 This [Digi-Key List](https://www.digikey.co.uk/en/mylists/list/ZWWIHRPLO7 ) contains all components excluding the 8255 which was purchased from EBay.
