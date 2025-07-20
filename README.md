@@ -37,8 +37,6 @@ Note the right angled header for the port connections was not available at the t
 [RASM](https://github.com/EdouardBERGE/rasm)
 
 ## Resources
-[Zed80 Website](http://zed80.com/Z80-RETRO/index_Home.html)
-
 [CPCWiki](https://www.cpcwiki.eu/index.php/Main_Page)
 
 Z80 Application by James W Coffron ISBN 0-89588-094-6
